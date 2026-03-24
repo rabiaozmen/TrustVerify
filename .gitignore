@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Sensitive / generated files
+private_key.pem
+public_key.pem
+signature.sig
+metadata.json

@@ -1,4 +1,7 @@
-hello word hacked
+This is a sample text file created for the Software Security Project.
+The content of this file is protected using SHA-256 Hashing and RSA Signing.
+
+Status: Original and Secure.
 
 
 
